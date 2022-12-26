@@ -1,0 +1,7 @@
+{
+  "elm.makeCommand": "/Users/ym/Workspaces/elm-sample/node_modules/.bin/elm-make",
+  "elm.formatCommand": "/Users/ym/Workspaces/elm-sample/node_modules/.bin/elm-format",
+  "elm.formatOnSave": true,
+  "elm.analyseCommand": "/Users/ym/Workspaces/elm-sample/node_modules/.bin/elm-analyse",
+  "elm.analyseEnabled": true
+}
